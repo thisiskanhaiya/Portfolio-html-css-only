@@ -1,2 +1,1 @@
-# Portfolio-html-css-only
-Portfolio site using only html and css
+Simple Portfolio site which made for purpose of practising HTML & CSS.
